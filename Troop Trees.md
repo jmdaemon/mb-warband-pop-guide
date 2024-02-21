@@ -1,17 +1,25 @@
+# Troops
 
-## Troop Combat
+## Table of Contents
 
+${toc}
 
-For Troop Battles in PoP, keep in mind the following guide rules:
+## Guidelines
 
-- Bows outscale Guns
+There are some general guide lines that hold true of combat in M&B Warband in general.
+
+These guide lines are true of Native and in PoP as well.
+
+Specifically in the base game:
+
 - Mounted-Ranged units are bad. The A.I is not good and the troops aren't effective.
 - Ranged units are very good. You always want to have lots of them.
 
-## Troop Tree Discussion:
+For PoP particularly:
 
+- Bows outscale Guns in troop battles
 
-
+## Tiers
 
 The tiers for best troops are as follows:
 
@@ -158,3 +166,14 @@ BiP Unit: Federation Guardsman
 
 Infantry: Noldor
 BiP Unit: Noldor Twilight Knight
+
+
+## Best In Party
+
+Best in Party (BiP) for the given tiers is as follows:
+
+### Common Tier
+
+### Noble Tier
+
+### Knighthood Order
