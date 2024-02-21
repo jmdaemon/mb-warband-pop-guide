@@ -1,0 +1,82 @@
+
+Factors for determining troop tiers
+- Cost-effectiveness
+- Role usefulness
+- Strength
+
+Roles: [INF] [ARC] [CAV] [X-BOW]
+
+[INF]: 
+- Have high defense and great melee power
+- Lines help protect core of army
+	- Can prevent cavalry from getting through and disrupting army
+
+[ARC]:
+- Have great burst DPS
+- Short reload speed
+- Depletes ammo more quickly
+- Amazing in siege defense
+	- Deals more damage than [X-BOW] could
+
+[X-BOW]:
+- Good for prolonged fights such as sieges
+	- Fires more projectiles
+	- Depletes ammo more slowly
+- Better in overwhelming odds situations
+
+[CAV]:
+
+
+Common Tier:
+
+[INF]
+1. Empire Legionnaire  				Cost-effective
+2. Fierdsvain Huscarl 				Strongest
+3. Mercenary Sergeant 				Strong but expensive
+
+[ARC]
+1. Ravenstern Ranger 				Strongest
+2. D'Shar Marksman | D'Shar Ghazi Stalker 	Faster fire rate, good in sieges
+3. Pendor Armored Bowman 			Cost-effective
+3. Sarleon Armored Longbowman 			Longer Range
+
+[CAV]
+1. Barclay Imperial Lancer
+1. Melitime Griwbanar
+1. Mercenary Cavalryman
+						Have the best armor
+[X-BOW]
+1. Baccus Armored Crossbowman 			Have good armor, good in sieges
+2. Fierdsvain Crossbowman 			Good melee and short range
+
+Pendor Tier: 
+[INF]
+1. Pendor Foot Knight 				Strongest
+2. Empire Knights				Easy to train
+
+[ARC]
+1. Pendor Black Archer 				Strongest
+
+[CAV]
+1. Pendor Knight 				Strongest
+
+Knighthood Order Tier
+
+[INF]
+1. Kraken Riddari 				Strongest
+2. Empire Immortal				Strong but not cost-effective
+3. Shadow Wolf 					Good in siege, fast attack speed with polearms
+
+[ARC]
+1. Ranger of the Clarion Call 			Strongest but require dismount. Also best mounted archer
+2. Silvermist Ranger 				Strongest intended foot archer
+
+[CAV]
+1. Valkyrie 					Strongest. Really successful in tournaments
+2. Knights of the Radiant Cross 		Very tanky, will deal damage
+3. Shadow Legion Centurion			Very tanky
+
+Custom Knighthood Order Tier
+
+
+
