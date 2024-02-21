@@ -31,38 +31,46 @@ After putting the minimum points into STR, everything should be focused into INT
 
 #### MEDIC
 
-Companion       : Leslie
-Skill Priority  :
-1. Surgery
-2. First Aid
-3. Wound Treatment
-4. Trainer
+**Companion: Leslie**
+
+| Skill Priority        |
+| --------------------- |
+| 1. Surgery            |
+| 2. First Aid          |
+| 3. Wound Treatment    |
+| 4. Trainer            |
 
 #### ENGINEER
 
-Companion       : Julia
-Skill Priority :
-1. Pathfinding & Engineering
-2. Trainer
-3. Spotting, Tracking
+**Companion: Julia**
+
+| Skill Priority                |
+---------------------------------
+| 1. Pathfinding & Engineering  |
+| 2. Trainer                    |
+| 3. Spotting, Tracking         |
 
 ### Agility Companions
 
 #### LOOTER
 
-Companion       : Kaverra
-Skill Priority  :
-1. Looting
+**Companion: Kaverra**
+
+| Skill Priority    |
+|-------------------|
+| 1. Looting        |
 
 ### Charismatic Companions
 
 #### EMISSARY
 
-Companion       : Alyssa
-Skill Priority  :
-1. Persuasion
-2. Trainer
-3. Trade
+**Companion: Alyssa**
+
+| Skill Priority    |
+|-------------------|
+| 1. Persuasion     |
+| 2. Trainer        |
+| 3. Trade          |
 
 Uses:
 - Negotiate peace
@@ -74,47 +82,37 @@ Uses:
 For Knighthood Order Trainers (KOTs), higher combat stats creates better troops.
 
 #### RANGE
-
-Companion           : Diev Woodenssen
-Skill Priority      :
-- Power Draw
-
-Weapon Proficiencies:
-- Archery
-- Crossbows
+**Companion: Diev Woodenssen**
+| Skill Priority        | Weapon Proficiencies  |
+|-----------------------|-----------------------|
+| - Power Draw          | - Archery             |
+|                       | - Crossbows           |
 
 #### MELEE
-Companion           : Sigismund Sinclair
-Skill Priority      :
-- Power Strike
-
-Weapon Proficiencies:
-- One Handed Weapons
-- Two Handed Weapons
+**Companion: Sigismund Sinclair**
+| Skill Priority        | Weapon Proficiencies  |
+|-----------------------|-----------------------|
+| - Power Strike        | - One Handed Weapons  |
+|                       | - Two Handed Weapons  |
 
 #### ALL
-Companion           : Lethaldiran
-Skill Priority      :
-- Power Strike
-- Power Draw
-
-Weapon Proficiencies:
-- One Handed Weapons
-- Two Handed Weapons
-- Archery
-- Crossbows
+**Companion: Lethaldiran**
+| Skill Priority        | Weapon Proficiencies  |
+|-----------------------|-----------------------|
+| - Power Strike        | - One Handed Weapons  |
+| - Power Draw          | - Two Handed Weapons  |
+|                       | - Archery             |
+|                       | - Crossbows           |
 
 NOTE:
 - Use "Dust of Twilight" on Lethaldiran + Spec [INT] and Trainer for better troops.
 - Lethaldiran can train mounted troops too.
 
 #### GUNS
-Companion           : Donovan
-Skill Priority      :
-- Power Draw
-
-Weapon Proficiencies:
-- Guns
+**Companion: Donovan**
+| Skill Priority        | Weapon Proficiencies  |
+|-----------------------|-----------------------|
+| - Power Draw          | - Guns                |
 
 NOTE:
 - Donovan is the only companion who starts out with 300 gun proficiency.
