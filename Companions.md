@@ -142,4 +142,3 @@ NOTE:
 - All other stats have no effect
     - Prisoner Management is useless since they can have an infinite number of prisoners
     - Trainer has no effect on troop quality, only useful for when he's in your party
-
